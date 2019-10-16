@@ -1,0 +1,83 @@
+Creativity 
+Ch1:  Appetizers put you over the budget.  I say, "yes and is there a way to get some of those and to replace the carrots?"
+ coworkers says, lets request more time. I say, "yes and include the tech support so we are all on the same page and held responsible."
+dayna says lets go to spain, and i say yes and include turkey
+•	In my life, right now, where do I play? at the gym, on the trail, at home, travelling
+•	What am I passionate about? getting stronger, learning skills, travelling, sports
+•	What is my purpose? (It’s fine to have more than one.) help make peoples lives better.. entertain
+•	Are there any commonalities among these areas? If so, what does that tell you about where your intrinsic motivation lies?
+
+ 		the commoanlity is to travel and to use my skills to help people improve while they are enterained
+
+CH2:  Activity 1: Random Words Use the random word provided to generate unusual ideas for the situation. 
+•	Random word: tire Situation: studying for an exam// Set up a wheel.  once you go all the way around you have completed all the studies
+
+•	Random word: stove  Situation: planting a garden//  possible plant potatos near/ below the corn
+•	Random word: pillow Situation: debugging a computer//  hold a pillow until you figure it out
+•	Random word: shampoo Situation: planning for retirement//  Each time you buy new shampoo, save an addition $200
+
+
+•	Random word: necklace  Situation: preventing an asteroid  from hitting the Earth// create a vibrating sound in the atmosphere that will help break it up before it lands
+ 
+Activity 2: PO Statements Use PO to provoke your childlike ability to pretend. For example, “PO people can fly.” You could think of PO as a part of the word “supPOse,” as in “Suppose things were different.” 
+Try creating five or more statements starting with PO. Choose one and expand on what new insights or ideas you get from that provocative statement.
+ provocutive operations
+1.PO lifters do not warm up
+2. PO investors earn income quickly
+3. PO husbands are helpful.  they spend time researching other peoples problems.  They learn something from the research and are able to use it for their benefit
+4.  PO people have a strong mental endurance
+5.  PO friends create awesome memories
+
+CH3:
+Ken is innovative.  People at EJ are adaptive. Ken is always reinforcing that there is a way to make it work and that life is good.  
+EJ people are consistantly makeing adjustments to the process
+Knowledge of creative styles lets me know that EJ people are all not that bad and their work could pay off
+
+try wearing all of the hats, but not at the same time
+•	Blue (sky, above everything else, organizing hat)
+•	White (objective, facts and figures) - I need to work some amount of time, also have money invested, multiple streams
+•	Red (emotional view) - you are sitting on your dick too much and not contributing enough
+•	Green (growth, creativity, new ideas) -Invest money, create podcast, homebased part time
+•	Black (careful, cautious, devil’s advocate) - losing the ivestment, leaving yourself too little money, 
+•	Yellow (sunny, positive)- free time to travel and still earn money
+
+The advantage to these 5 steps is that it doesn't get jumbled in your mind.
+
+
+Understanding Investments
+ As an investor, what are the things that you truly have control over? What things do you have no control over?
+ -entering and exiting times
+-stop loss.. live to fight another day
+-take profit orders.  stick it out until you get the profit you wanted
+
+you cannot control the news and how the market reacts to it
+
+The internet makes the market more effecient by alerting people with important changes.
+it is less effecient because too much change can happen at once
+
+I think the effeciency has stayed the same.  There are just more transactions
+
+Smaller firms (that is, smaller capitalization) tend to outperform larger companies
+The January effect - xcess selling pressure before January and excess buying pressure after January 1, leading to 
+this effect.
+Extensive academic research has shown that stocks with below-average price-to-book ratios tend to outperform the market. 
+. The neglected-firm effect occurs on stocks that are less liquid (lower trading volume) and tend to have minimal analyst support.
+yesterday's top performers become tomorrow's underperformers, and vice versa.
+Research has shown that stocks tend to move more on Fridays than Mondays and that there is a bias toward positive market performance on Fridays.
+he first is to select the 10 highest-yielding Dow stocks. The second method is to go a step further and take the five stocks from that list with the lowest absolute stock price and hold them for a year.
+
+
+
+
+
+Python
+What would be the output from each of the following lines of code?
+1 print(1+2+3+4+5) = 15
+2 print (3**2 + 4**2)  = 25  3^2
+3 print(3*(5+2)) = 21
+4 #print(100)  = is a comment
+5 print(1/2 + 1/2) = 1
+6 print (1//2 + 1//2) = error
+7 print (3985780149 % 2) =1
+What would be the code you would write for each of the following?
+pg 276
